@@ -10,10 +10,7 @@ A small project built with react
 4. Slice the last number
 
 ## Installation
-1. `git clone 	https://github.com/RimuCode/calculator.git`
+1. `git clone https://github.com/RimuCode/calculator.git`
 2. `cd calculator`
 3. `npm i`
 4. `npm start`
-
-## Contributing
-If you want add any feature pull request are appreciated
